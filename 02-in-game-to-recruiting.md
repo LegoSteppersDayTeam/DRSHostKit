@@ -28,8 +28,9 @@ Starting about 1-2 hours before raid.  These steps are a mix of in-game and in c
 <details>
 <summary>⚠Notes</summary>
 A few things to note here:
+
 * I don't screen for talent or experience, so I try to keep things as familiar as possible to decrease the amount of initial learning one needs to do to meet minimum effectiveness requirements in a DRS raid.
-* I *do* screen for ability and willingness to follow instructions and pay attention to detail.  Regardless of experience one can choose to try to find and follow written instructions or not, and experience has no bearing on this behavior.
+* I *do* screen for ability/willingness to understand and follow instructions and pay attention to detail.  Regardless of experience, one chooses whether or not to try to find and follow written instructions or not, and experience has no bearing on this behavior.
 * The gist of what you are trying to do here is to let prospective joiners know what you're going to do and when you're going to do it, so that they can make their short-term plans and join your raid when you click "Recruit Members".
 </details>
 
