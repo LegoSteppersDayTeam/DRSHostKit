@@ -1,5 +1,11 @@
 # DRSHostKit
-a step-by-step walkthrough to leading groups of 24-48 players into Delubrum Reginae Savage in the style of Nacl Free of Lego Steppers/Day Team
+a step-by-step walkthrough to leading a pick-up group (PUG) of 24-48 players into Delubrum Reginae Savage, from someone who leads a regularly-scheduled, publicly-available raid into DRS at least once a week and has done so since March 2021
+
+This is what I do when I lead teams into DRS.  I'm not going to claim this is the best way, but it's worked for me consistently over the last 3 years and counting, and I'll probably be doing something similar for Dawntrail's Savage Foray if that comes out.
+
+I take everyone, from people who've cleared Ultimate raids to people who don't consider themselves raiders and are discovering content for the first time.
+
+I don't require any pre-study or video guide watching.  YoshiP & co made this content for us to enjoy, and I don't want to tell people that they have to give up the joy of seeing mechanics for the first time.  I take all groups in with the understanding that a clear is always possible by following my raid plan but should not be expected.
 
 Note: This walkthrough frequently uses collapsed sections to hide details & rationale.  If you see:
 
