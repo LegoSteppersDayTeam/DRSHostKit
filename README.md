@@ -4,8 +4,8 @@ a step-by-step walkthrough to leading groups of 24-48 players into Delubrum Regi
 Note: This walkthrough frequently uses collapsed sections to hide details & rationale.  If you see:
 
 <details>
-  <summary>⚠Notes: (<-- click this)</summary>
-    I have notes in this section that are not shown by default so as to decrease the initial amount of information being presented on a page.  There's a lot of information that goes into leading a viable DRS run, but I don't want to firehose you with it.  If you want rationale, make sure to check these `Notes` sections.
+  <summary><b><i>⚠Notes: (<-- click this)</i></b></summary>
+    I have notes in sections like these that are not shown by default so as to decrease the initial amount of information being presented on a page.  There's a lot of information that goes into leading a viable DRS run, and I'm not trying to to firehose you with it.  If you want rationale, make sure to check these <b><i>Notes</i></b> sections.
 </details>
 
 0. [Environment Prep - establish & communicate rules of engagement](0-environment.md)
