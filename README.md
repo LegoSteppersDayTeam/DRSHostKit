@@ -1,6 +1,13 @@
 # DRSHostKit
 a step-by-step walkthrough to leading groups of 24-48 players into Delubrum Reginae Savage in the style of Nacl Free of Lego Steppers/Day Team
 
+Note: This walkthrough frequently uses collapsed sections to hide details & rationale.  If you see:
+
+<details>
+  <summary>Notes: (<-- click this)</summary>
+    I have notes in this section that are not shown by default so as to decrease the initial amount of information being presented on a page.  There's a lot of information that goes into leading a viable DRS run, but I don't want to firehose you with it.  If you want rationale, make sure to check these `Notes` sections.
+</details>
+
 0. [Environment Prep](0-environment.md) - establish & communicate rules of engagement
 1. Host Prep
 2. In-Game Prep up to clicking "Recruit Members"
