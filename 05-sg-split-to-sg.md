@@ -1,0 +1,10 @@
+# Step 5. Pre-brief Slimes/Golems
+At this point the raid is split into two completely different encounters with different mechanics that need to both finish within 6 minutes from combat start.  There are many different approaches to the Slime or Golem side, and it is out of scope of this document to discuss anything related to combat strategies.  Despite this there are some universally-applicable steps to take prior to opening the doors to the Barracks and Granary and starting the encounter.
+
+1. Do all slime side organization away from the door, and minimize the number of people close to the door on golem side--Inactive Golems are in front of the door so some members will be close to the door on a golem for which they are assuming responsibility.  Minimize or eliminate any possibility of opening the doors early.
+2. Make sure each individual member knows what they are doing--especially on slime side.  If different DPS are individually doing different things depending on the strat being executed, make sure each DPS individual knows what they specifically need to do for the encounter to succeed, and do not collectively refer to DPS as "DPS" and expect individual DPS members to spontaneously self-organize... this will lead to a wipe most of the time.
+3. Once initial instructions are given out, ask for a ready check from both slime and golem sides.  Consider re-asserting readiness if golem side indicates that they are ready and then are led to wait for a few more minutes while slime side instructions are being issued.
+4. Once both sides indicate readiness, remind all tanks to turn on tank stance and start the countdown.
+5. Execute your plan.
+
+[<<< Previous: In-instance prep - from queueing into DRS to slime/golem split](04-queueing-to-sg-split.md) | [Next: Slime/Golem recovery to Trinity Seeker engagement >>>](06-sg-to-ts.md)
