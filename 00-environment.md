@@ -1,4 +1,4 @@
-# Environment Prep
+# Step 0. Environment Prep
 
 * Set up a Discord server, freely and quickly available from https://discord.gg
 * Establish a Code of Conduct that communicates the ground rules for prospective team members within your Discord server.
@@ -35,4 +35,4 @@ DRS requires more than just food, pots, and skill.  There are special actions ap
 Most hosts will give some kind of direction as to what they want people to bring depending on their role in the raid.  "Role" in both the job category sense of the word as well as one's DRS-specific role (Flarestar BLM, Duelist, Lost Rend appliers, Trap Sweepers, people to give out Shell before TA and before Queen.
 </details>
 
-[<<< Previous: Readme](README.md) | [Next: Pre-Game Host Prep >>>](1-host-prep.md)
+[<<< Previous: Readme](README.md) | [Next: Pre-Game Host Prep >>>](01-host-prep.md)

@@ -1,4 +1,4 @@
-# Pre-Game Host Prep
+#Step 1. Pre-Game Host Prep
 What to do before you even start the game
 
 1. Decide on and commit to a 5-hour block of time which you can dedicate to leading a raid.
@@ -15,4 +15,4 @@ You want to account for roughly 1 hour of pre-instance prep, about 1 hour of buf
 It's very, very hard to summon 47 other teammates whole cloth and have them dedicate a block of 4-5 hours for DRS, so you'll want to establish some sort of schedule beforehand.  I do this by both announcing I will run a week ahead of time, and also sticking with a regularly-scheduled weekly run.  A regularly scheduled event helps people both plan their own schedules around your event, and provides a base assumption that they can recommend your event to other people knowing you will be holding it at a known time and regularity.
 </details>
 
-[<<< Previous: Environment Prep](0-environment.md) | [Next: In-Game Prep up to clicking "Recruit Members" >>>](2-in-game-to-recruiting.md)
+[<<< Previous: Environment Prep](00-environment.md) | [Next: In-Game Prep up to clicking "Recruit Members" >>>](02-in-game-to-recruiting.md)
