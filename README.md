@@ -16,11 +16,12 @@ Note: This walkthrough frequently uses collapsed sections to hide details & rati
     I have notes in sections like these that are not shown by default so as to decrease the initial amount of information being presented on a page.  There's a lot of information that goes into leading a viable DRS run, and I'm not trying to to firehose you with it.  If you want rationale, make sure to check these <b><i>Notes</i></b> sections.
 </details>
 
-0. [Environment Prep](0-environment.md) - Set up your operating environment from which you will communicate to prospective teammates and raid members.
-1. [Pre-Game Host Prep](1-host-prep.md) - what to do before _each_ run.  These things are done before logging into FFXIV.
-2. [In-Game Prep up to clicking "Recruit Members"](2-in-game-to-recruiting.md)
-3. [Marshalling - from clicking "Recruit Members" to queueing into DRS](3-recruiting-to-queueing.md)
-4. [In-instance prep - from queueing into DRS to slime/golem split](4-queueing-to-sg-split.md)
+Step 0. [Environment Prep](00-environment.md) - Set up your operating environment from which you will communicate to prospective teammates and raid members.
+
+1. [Pre-Game Host Prep](01-host-prep.md) - what to do before _each_ run.  These things are done before logging into FFXIV.
+2. [In-Game Prep up to clicking "Recruit Members"](02-in-game-to-recruiting.md)
+3. [Marshalling - from clicking "Recruit Members" to queueing into DRS](03-recruiting-to-queueing.md)
+4. [In-instance prep - from queueing into DRS to slime/golem split](04-queueing-to-sg-split.md)
 5. [Slime/Golem split to engagement](05-sg-split-to-engagement.md)
 6. [Slime/Golem recovery to Trinity Seeker engagement](06-sg-to-ts.md)
 7. [Trinity Seeker recovery to Dahu enagement, Duelist sweep/departure](07-ts-to-dahu.md)
