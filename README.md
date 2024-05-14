@@ -7,6 +7,8 @@ I take everyone, from people who've cleared Ultimate raids to people who don't c
 
 I don't require any pre-study or video guide watching.  YoshiP & co made this content for us to enjoy, and I don't want to tell people that they have to give up the joy of seeing mechanics for the first time.  I take all groups in with the understanding that a clear is always possible by following my raid plan but should not be expected.
 
+All this is to say that this guide is meant to be used for leading a group of people of unknown and possibly zero raid experience mixed with people who are experts at raiding.  A lot of what I do when leading DRS is expectation management, so this guide is written with all of that in mind--a distillation of leading a new group of people in and to the eventual clear more or less weekly for the last 3 years.
+
 Note: This walkthrough frequently uses collapsed sections to hide details & rationale.  If you see:
 
 <details>

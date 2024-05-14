@@ -1,7 +1,7 @@
 # Environment Prep
 
 * Set up a Discord server, freely and quickly available from https://discord.gg
-* Establish a Code of Conduct that communicates the ground rules for prospective team members.
+* Establish a Code of Conduct that communicates the ground rules for prospective team members within your Discord server.
 	* Write down rules by which you want yourself and your teammates to follow.
 	* Communicate those rules by putting them in a prominent location in your communications hub
 	
@@ -21,17 +21,18 @@ The FFXIV TOS covers prohibited behaviors in-game, and Discord TOS covers prohib
 Also, don't feel pressured to define this list right away.  Just make a list of things you can think of off the top of your head, write them down, and then show that list.  Edit it as you get more experience as a raid leader
 </details>
 
-* Establish your holster requirements.  Be sure to define and declare what you want your teammates to bring
+* Establish and communicate your holster requirements.  Be sure to define and declare what you want your teammates to bring.
 
 <details>
 <summary><b><i>⚠Notes</i></b></summary>
-DRS requires more than just food, pots, and skill.  There are special actions appraised from fragments which drop from mobs in Bozjan Southern Front (BSF), including Castrum Lacus Litore (CLL), which are required by mechanics in DRS.  At a minimum, you want:
+DRS requires more than just food, pots, and skill.  There are special actions appraised from fragments which drop from mobs in Bozjan Southern Front (BSF), including Castrum Lacus Litore (CLL), which are required by mechanics in DRS.  At a minimum, you want each of the 6 alliances A through F to have access to the following during a run:
 
-* Steelsting
-* Spellforge
-* Reflect
-* Dispel
-* Aethershield (from a true tank) for TA and Queen raidwides
+* Steelsting & Spellforge (Queen's Guard)
+* 2 people with Reflect for 2 fights (Queen's Guard, Mino, and Queen)
+* 2 people with Dispel for 1 fight (Queen's Guard, Mino, and Queen)	
+* at least 1 tank providing Aethershield per alliance (TA and Queen)
+
+Most hosts will give some kind of direction as to what they want people to bring depending on their role in the raid.  "Role" in both the job category sense of the word as well as one's DRS-specific role (Flarestar BLM, Duelist, Lost Rend appliers, Trap Sweepers, people to give out Shell before TA and before Queen.
 </details>
 
 [<<< Previous: Readme](README.md) | [Next: Pre-Game Host Prep >>>](1-host-prep.md)
