@@ -1,7 +1,7 @@
 # DRSHostKit
 a step-by-step walkthrough to leading groups of 24-48 players into Delubrum Reginae Savage in the style of Nacl Free of Lego Steppers/Day Team
 
-0. (Environment Prep)[0-environment.md] - establish & communicate rules of engagement
+0. [Environment Prep](0-environment.md) - establish & communicate rules of engagement
 1. Host Prep
 2. In-Game Prep up to clicking "Recruit Members"
 3. Marshalling - from clicking "Recruit Members" to queueing into DRS
