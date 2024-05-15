@@ -12,16 +12,17 @@ You want to account for roughly 1 hour of pre-instance prep, about 1 hour of buf
 
 <details>
 <summary>Example announcement</summary>
-> <t:1716049800:F> <t:1716049800:R> anyprog on Sargatanas, Aether, NA 🇺🇸🇨🇦🇲🇽
-> 
-> Please read and abide by the following:
-> - #code-of-conduct
-> - #requirements-to-participate
-> - If you are new to this discord server, please check the #faq-frequently-asked-questions as well.
-> 
-> Quorum is 6+ tanks, 6+ healers, and 12+ DPS.
-> 
-> https://discord.gg/YKP76AsMw8?event=1239220087932583966
+  
+    <t:1716049800:F> <t:1716049800:R> anyprog on Sargatanas, Aether, NA 🇺🇸🇨🇦🇲🇽
+    
+    Please read and abide by the following:
+    - #code-of-conduct
+    - #requirements-to-participate
+    - If you are new to this discord server, please check the #faq-frequently-asked-questions as well.
+
+    Quorum is 6+ tanks, 6+ healers, and 12+ DPS.
+
+    https://discord.gg/YKP76AsMw8?event=1239220087932583966
 
 Since I use Discord, I leverage the Discord client's auto-adjusting timestamp feature.  The string `<t:1716049800:F> <t:1716049800:R>` will show up to me as "Saturday, May 18, 2024 9:30 AM in 4 days" since I have my client configured for English and my local time zone is Pacific Standard Time at the moment.  The number `1716049800` in this case corresponds to the Unix Timestamp corresponding to my target local time of 9:30AM PST.
 </details>
