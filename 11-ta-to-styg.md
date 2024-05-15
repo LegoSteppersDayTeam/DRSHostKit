@@ -1,1 +1,2 @@
-
+# Step 11. Trinity Avowed recovery to Stygimoloch Lord engagement
+[<<< Previous: Bozjan Phantom recovery to Trinity Avowed engagement](10-phantom-to-ta.md) | [Next: Stygimoloch Lord recovery to Queen engagement >>>](12-styg-to-queen.md)

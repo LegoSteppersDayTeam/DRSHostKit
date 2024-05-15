@@ -1,1 +1,2 @@
-
+# Step 12. Stygimoloch Lord recovery to Queen engagement
+[<<< Previous: Trinity Avowed recovery to Stygimoloch Lord engagement](11-ta-to-styg.md) | [Next: Queen recovery and post-clear ceremonies >>>](13-queen-to-dismissal.md)
