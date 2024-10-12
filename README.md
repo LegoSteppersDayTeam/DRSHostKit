@@ -22,7 +22,7 @@ Step 3. [Marshalling - from clicking "Recruit Members" to queueing into DRS](03-
 
 Step 4. [In-instance prep - from queueing into DRS to slime/golem split](04-queueing-to-sg-split.md) - ~20 minutes
 
-Step 5. [Slime/Golem split to engagement](05-sg-split-to-engagement.md) - ~20 minutes
+Step 5. [Slime/Golem split to engagement](05-sg-split-to-sg.md) - ~20 minutes
 
 Step 6. [Slime/Golem recovery to Trinity Seeker engagement](06-sg-to-ts.md) - ~5 minutes
 
