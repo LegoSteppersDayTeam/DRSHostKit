@@ -15,4 +15,4 @@ You have just entered the instance.  This is when you want to direct your raid t
 4. Ask Sweeps 2 and 3 to check and confirm in shout chat that they have Lost Perception in their holsters
 5. Once all teams have reported ready, issue instruction "JUMP JUMP JUMP"
 
-[<<< Previous: Marshalling - from clicking "Recruit Members" to queueing into DRS](03-recruiting-to-queueing.md) | [Next: Slime/Golem split to engagement >>>](05-sg-split-to-engagement.md)
+[<<< Previous: Marshalling - from clicking "Recruit Members" to queueing into DRS](03-recruiting-to-queueing.md) | [Next: Slime/Golem split to engagement >>>](05-sg-split-to-sg.md)
