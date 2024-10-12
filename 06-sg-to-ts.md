@@ -7,4 +7,4 @@
 5. Brief main tank if necessary
 6. Start countdown and engage.
 
-[<<< Previous. Slime/Golem split to engagement](05-sg-split-to-engagement.md) | [Next: Trinity Seeker recovery to Dahu enagement, Duelist sweep/departure >>>](07-ts-to-dahu.md)
+[<<< Previous. Slime/Golem split to engagement](05-sg-split-to-sg.md) | [Next: Trinity Seeker recovery to Dahu enagement, Duelist sweep/departure >>>](07-ts-to-dahu.md)
